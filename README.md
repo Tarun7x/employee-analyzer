@@ -1,4 +1,4 @@
-# Employee Analyzer (Code Exercise 106)
+# Employee Analyzer
 
 ## Overview
 This Java SE + Maven console application reads employee data from a CSV file and reports:
